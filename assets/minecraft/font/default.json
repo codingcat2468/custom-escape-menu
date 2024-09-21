@@ -1,0 +1,8 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "custom_escape:custom_font"
+        }
+    ]
+}
