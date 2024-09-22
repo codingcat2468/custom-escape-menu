@@ -3,7 +3,7 @@ This resource pack allows you to create a completely custom escape menu for your
 
 ## Changing Images
 After unzipping the resource pack, go to the `assets/custom_escape/textures/escape_menu` folder.
-The images in there can be changed to anything you want, although you should make sure to **edit the original images, and not create new ones yourself** for a few reasons. First, the images have to be exactly *255x255*px large, and all of them include two nearly invisible transparent gray squares in both top corners:
+The images in there can be changed to anything you want, although you should make sure to **edit the original images, and not create new ones yourself** for a few reasons. First, the images have to be exactly *255x150*px large, and all of them include two nearly invisible transparent gray squares in both top corners:
 
 ![Image of the square](square.png)
 
