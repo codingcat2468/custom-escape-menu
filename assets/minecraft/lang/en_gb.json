@@ -1,6 +1,6 @@
 {
     "menu.game": "",
-    "menu.returnToGame": "\uEFFF\uEF00\uEFFF",
-    "menu.returnToMenu": "\uEFFF\uEF01\uEFFF",
-    "menu.disconnect": "\uEFFF\uEF01\uEFFF"
-}
+    "menu.returnToGame": "\uEFFF\uEF01\uEFFF\uEF00\uEFFF",
+    "menu.returnToMenu": "\uEFFF\uEF02\uEFFF\uEF03\uEFFF",
+    "menu.disconnect": "\uEFFF\uEF02\uEFFF\uEF03\uEFFF"
+} 

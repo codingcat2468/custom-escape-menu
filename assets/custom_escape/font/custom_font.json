@@ -5,8 +5,8 @@
             "chars": [
                 "\uEFFF"
             ],
-            "height": -200,
-            "ascent": -5000,
+            "height": -209,
+            "ascent": -10000,
             "type": "bitmap"
         },
         {
@@ -20,11 +20,29 @@
         },
         {
             "type": "bitmap",
+            "file": "custom_escape:escape_menu/back_to_game.png",
+            "height": 120,
+            "ascent": 113,
+            "chars": [
+                "\uEF01"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "custom_escape:escape_menu/quit.png",
             "height": 120,
             "ascent": 112,
             "chars": [
-                "\uEF01"
+                "\uEF02"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_escape:escape_menu/bottom_card.png",
+            "height": 121,
+            "ascent": -5,
+            "chars": [
+                "\uEF03"
             ]
         }
     ]
