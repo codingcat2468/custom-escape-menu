@@ -15,5 +15,4 @@ Now let's get to the actual files. You can find 4 .png files in the folder, with
 - **quit.png**: The image that will replace the "Save and Quit to Title" / "Disconnect" button
 - **bottom_card.png**: This image will be shown below the menu, and can be used to display additional information to players. If you don't want this card, you can leave the image empty (make sure to keep the squares).
 
-
-*Thanks to @BugFinderMC for creating the Membercat-Themed example images!*
+Thanks to [**bug_finder**](https://github.com/BugFinderMC) for creating the Membercat-Themed example images!
