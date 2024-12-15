@@ -2,5 +2,11 @@
     "menu.game": "",
     "menu.returnToGame": "\uEFFF\uEF01\uEFFF\uEF00\uEFFF",
     "menu.returnToMenu": "\uEFFF\uEF02\uEFFF\uEF03\uEFFF",
-    "menu.disconnect": "\uEFFF\uEF02\uEFFF\uEF03\uEFFF"
-} 
+    "menu.disconnect": "\uEFFF\uEF02\uEFFF\uEF03\uEFFF\uEF0A\uEFFF",
+    "menu.sendFeedback": "\uEFFF\uEF04\uEFFF\uEF0B\uEFFF",
+    "menu.reportBugs": "\uEFFF\uEF05\uEFFF\uEF0C\uEFFF",
+    "menu.options": " \uEFFF\uEF06\uEFFF",
+    "menu.shareToLan": "\uEFFF\uEF07\uEFFF",
+    "menu.feedback": "\uEFFF\uEF08\uEFFF\uEF0B\uEFFF",
+    "menu.server_links": "\uEFFF\uEF09\uEFFF\uEF0C\uEFFF"
+}   
