@@ -1,6 +1,10 @@
 {
     "pack": {
         "pack_format": 34,
-        "description": "Creates a custom escape menu for your server!"
+        "description": "Creates a custom escape menu for your server!",
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 88
+        }
     }
 }
