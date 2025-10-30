@@ -2,9 +2,11 @@
     "pack": {
         "pack_format": 34,
         "description": "Creates a custom escape menu for your server!",
+        "min_format": 15,
+        "max_format": [70, 0],
         "supported_formats": {
             "min_inclusive": 15,
-            "max_inclusive": 88
+            "max_inclusive": 64
         }
     }
 }
